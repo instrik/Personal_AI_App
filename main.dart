@@ -6,7 +6,7 @@ import 'screens/chat_screen.dart';
 void main() {
   runApp(MyApp());
 }
-//trial comment 18
+//trial comment 19
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
